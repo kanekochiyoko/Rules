@@ -3,6 +3,7 @@
 # 未包含广告过滤
 #
 
+{{manual_direct}}
 
 {{gfwlist}}
 
