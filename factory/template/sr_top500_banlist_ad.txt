@@ -7,6 +7,8 @@
 
 {{manual_reject}}
 
+{{manual_proxy}}
+
 {{ad}}
 {{gfwlist}}
 
