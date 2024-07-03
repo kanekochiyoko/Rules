@@ -1,15 +1,8 @@
+
 # Best Shadowrocket Rules (https://github.com/h2y/Shadowrocket-ADBlock-Rules)
 # by Moshel
 # build time: 2024-07-03 14:16:18
 
-[General]
-bypass-system = true
-skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local, e.crashlytics.com, captive.apple.com
-bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.18.0.0/15,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,255.255.255.255/32
-dns-server = 223.5.5.5, 223.6.6.6
-ipv6 = true
-prefer-ipv6 = false
-private-ip-answer = true
 [Rule]
 #
 # 黑名单中包含了 GFWList 中定义的无法访问的网站，剩下的网站直连。
@@ -6140,10 +6133,3 @@ IP-CIDR,74.125.23.127/32,Proxy
 # hacker news web site
 DOMAIN-SUFFIX,news.ycombinator.com,Proxy
 
-
-FINAL,direct
-
-[URL Rewrite]
-^http://(www.)?google.cn https://www.google.com 302
-
-# By Moshel @ https://hzy.pw/
