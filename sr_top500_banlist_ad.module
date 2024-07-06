@@ -1,8 +1,8 @@
 
 # Best Shadowrocket Rules (https://github.com/h2y/Shadowrocket-ADBlock-Rules)
 # by Moshel
-# !name=sr_top500_banlist_ad
-# !desc=Rules: 51828, Build Time: 2024-07-06 13:25:22
+#!name=sr_top500_banlist_ad
+#!desc=Rules: 51828, Build Time: 2024-07-06 13:30:24
 
 [Rule]
 #
@@ -115,7 +115,7 @@ DOMAIN-SUFFIX,apple.news,Proxy
 DOMAIN-SUFFIX,news.iadsdk.apple.com,Proxy
 
 
-# adblock rules refresh time: 2024-07-06 13:25:22
+# adblock rules refresh time: 2024-07-06 13:30:24
 DOMAIN-SUFFIX,0008d6ba2e.com,Reject
 DOMAIN-SUFFIX,0024ad98dd.com,Reject
 DOMAIN-SUFFIX,002777.xyz,Reject
