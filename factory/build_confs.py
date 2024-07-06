@@ -106,4 +106,12 @@ for module_name in module_names:
     for mark in marks:
         template = template.replace("{{" + mark + "}}", values[mark])
 
+    count = (
+        template.count("Proxy\n")
+        + template.count("Direct\n")
+        + template.count("Reject\n")
+    )
+    template = template.replace("<<count>>", str(count))
+    template = template.replace("<<name>>", module_name)
+
     file_output.write(template)

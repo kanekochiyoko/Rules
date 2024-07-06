@@ -1,6 +1,7 @@
 
 # Best Shadowrocket Rules (https://github.com/h2y/Shadowrocket-ADBlock-Rules)
 # by Moshel
-# build time: {{build_time}}
+# !name=<<name>>
+# !desc=Rules: <<count>>, Build Time: {{build_time}}
 
 [Rule]
