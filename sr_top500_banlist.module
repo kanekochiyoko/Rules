@@ -1,7 +1,8 @@
 
 # Best Shadowrocket Rules (https://github.com/h2y/Shadowrocket-ADBlock-Rules)
 # by Moshel
-# build time: 2024-07-05 23:17:26
+# !name=sr_top500_banlist
+# !desc=Rules: 6084, Build Time: 2024-07-06 13:25:22
 
 [Rule]
 #
