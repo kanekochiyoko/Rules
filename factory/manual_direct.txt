@@ -1,4 +1,2 @@
 # 手工定义的 Direct 列表
 
-# duckdns
-duckdns.org
