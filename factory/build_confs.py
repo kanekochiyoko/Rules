@@ -113,5 +113,5 @@ for module_name in module_names:
     )
     template = template.replace("<<count>>", str(count))
     template = template.replace("<<name>>", module_name)
-
+    template.replace("DOMAIN-SUFFIX,duckdns.org,Proxy", "")
     file_output.write(template)
