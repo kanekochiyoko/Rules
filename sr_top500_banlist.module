@@ -2,7 +2,7 @@
 # Best Shadowrocket Rules (https://github.com/h2y/Shadowrocket-ADBlock-Rules)
 # by Moshel
 #!name=sr_top500_banlist
-#!desc=Rules: 6092, Build Time: 2024-08-10 14:30:27
+#!desc=Rules: 6092, Build Time: 2024-08-10 14:45:20
 
 [Rule]
 #
@@ -1520,7 +1520,7 @@ DOMAIN-SUFFIX,dtwang.org,Proxy
 DOMAIN-SUFFIX,duanzhihu.com,Proxy
 DOMAIN-SUFFIX,dubox.com,Proxy
 DOMAIN-SUFFIX,duck.com,Proxy
-DOMAIN-SUFFIX,duckdns.org,Proxy
+
 DOMAIN-SUFFIX,duckduckgo-owned-server.yahoo.net,Proxy
 DOMAIN-SUFFIX,duckduckgo.com,Proxy
 DOMAIN-SUFFIX,duckload.com,Proxy
