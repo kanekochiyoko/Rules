@@ -2,7 +2,7 @@
 # Best Shadowrocket Rules (https://github.com/h2y/Shadowrocket-ADBlock-Rules)
 # by Moshel
 #!name=sr_top500_banlist
-#!desc=Rules: 6092, Build Time: 2024-08-13 23:17:25
+#!desc=Rules: 6093, Build Time: 2024-08-15 23:24:27
 
 [Rule]
 #
@@ -1333,7 +1333,6 @@ DOMAIN-SUFFIX,dalailama-archives.org,Proxy
 DOMAIN-SUFFIX,dalailama.com,Proxy
 DOMAIN-SUFFIX,dalailama.mn,Proxy
 DOMAIN-SUFFIX,dalailama.ru,Proxy
-DOMAIN-SUFFIX,dalailama.usc.edu,Proxy
 DOMAIN-SUFFIX,dalailama80.org,Proxy
 DOMAIN-SUFFIX,dalailamacenter.org,Proxy
 DOMAIN-SUFFIX,dalailamafellows.org,Proxy
@@ -4717,6 +4716,7 @@ DOMAIN-SUFFIX,storagenewsletter.com,Proxy
 DOMAIN-SUFFIX,store.steampowered.com,Proxy
 DOMAIN-SUFFIX,stories.google,Proxy
 DOMAIN-SUFFIX,storify.com,Proxy
+DOMAIN-SUFFIX,storj.io,Proxy
 DOMAIN-SUFFIX,storm.mg,Proxy
 DOMAIN-SUFFIX,stormmediagroup.com,Proxy
 DOMAIN-SUFFIX,stoweboyd.com,Proxy
@@ -5400,6 +5400,7 @@ DOMAIN-SUFFIX,urlparser.com,Proxy
 DOMAIN-SUFFIX,us.to,Proxy
 DOMAIN-SUFFIX,usacn.com,Proxy
 DOMAIN-SUFFIX,usaip.eu,Proxy
+DOMAIN-SUFFIX,uscardforum.com,Proxy
 DOMAIN-SUFFIX,uscnpm.org,Proxy
 DOMAIN-SUFFIX,userapi.nytlog.com,Proxy
 DOMAIN-SUFFIX,users.skynet.be,Proxy
