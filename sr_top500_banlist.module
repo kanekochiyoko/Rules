@@ -2,7 +2,7 @@
 # Best Shadowrocket Rules (https://github.com/h2y/Shadowrocket-ADBlock-Rules)
 # by Moshel
 #!name=sr_top500_banlist
-#!desc=Rules: 6089, Build Time: 2024-09-16 23:16:47
+#!desc=Rules: 6090, Build Time: 2024-09-17 23:21:21
 
 [Rule]
 #
@@ -3914,6 +3914,7 @@ DOMAIN-SUFFIX,partycasino.com,Proxy
 DOMAIN-SUFFIX,partypoker.com,Proxy
 DOMAIN-SUFFIX,passion.com,Proxy
 DOMAIN-SUFFIX,passiontimes.hk,Proxy
+DOMAIN-SUFFIX,passwords.google,Proxy
 DOMAIN-SUFFIX,paste.ee,Proxy
 DOMAIN-SUFFIX,pastebin.com,Proxy
 DOMAIN-SUFFIX,pastie.org,Proxy
